@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+      ".zig-cache": true,
+      "zig-out": true
+    },
+    "search.exclude": {
+        ".zig-cache": true,
+        "zig-out": true
+    },
+    "files.watcherExclude": {
+        ".zig-cache": true,
+        "zig-out": true
+    }
+  }
