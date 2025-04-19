@@ -1,0 +1,1 @@
+This is just me going through some zig tutorials and putting it into a nice repo structure for reference.
